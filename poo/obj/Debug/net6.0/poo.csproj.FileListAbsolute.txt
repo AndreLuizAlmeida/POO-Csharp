@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/POO/poo/bin/Debug/net6.0/poo
+/home/andreluiz/RiderProjects/POO/poo/bin/Debug/net6.0/poo.deps.json
+/home/andreluiz/RiderProjects/POO/poo/bin/Debug/net6.0/poo.runtimeconfig.json
+/home/andreluiz/RiderProjects/POO/poo/bin/Debug/net6.0/poo.dll
+/home/andreluiz/RiderProjects/POO/poo/bin/Debug/net6.0/ref/poo.dll
+/home/andreluiz/RiderProjects/POO/poo/bin/Debug/net6.0/poo.pdb
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.dll
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/ref/poo.dll
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.pdb
+/home/andreluiz/RiderProjects/POO/poo/obj/Debug/net6.0/poo.genruntimeconfig.cache

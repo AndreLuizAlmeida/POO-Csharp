@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/bin/Debug/net6.0/03ExercicioEscolar
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/bin/Debug/net6.0/03ExercicioEscolar.deps.json
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/bin/Debug/net6.0/03ExercicioEscolar.runtimeconfig.json
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/bin/Debug/net6.0/03ExercicioEscolar.dll
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/bin/Debug/net6.0/ref/03ExercicioEscolar.dll
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/bin/Debug/net6.0/03ExercicioEscolar.pdb
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.dll
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/ref/03ExercicioEscolar.dll
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.pdb
+/home/andreluiz/RiderProjects/POO/03ExercicioEscolar/obj/Debug/net6.0/03ExercicioEscolar.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/bin/Debug/net6.0/02Métodos
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/bin/Debug/net6.0/02Métodos.deps.json
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/bin/Debug/net6.0/02Métodos.runtimeconfig.json
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/bin/Debug/net6.0/02Métodos.dll
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/bin/Debug/net6.0/ref/02Métodos.dll
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/bin/Debug/net6.0/02Métodos.pdb
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.dll
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/ref/02Métodos.dll
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.pdb
+/home/andreluiz/RiderProjects/POO/poo/02Métodos/obj/Debug/net6.0/02Métodos.genruntimeconfig.cache

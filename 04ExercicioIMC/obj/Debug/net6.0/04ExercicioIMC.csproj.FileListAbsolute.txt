@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/bin/Debug/net6.0/04ExercicioIMC
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/bin/Debug/net6.0/04ExercicioIMC.deps.json
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/bin/Debug/net6.0/04ExercicioIMC.runtimeconfig.json
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/bin/Debug/net6.0/04ExercicioIMC.dll
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/bin/Debug/net6.0/ref/04ExercicioIMC.dll
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/bin/Debug/net6.0/04ExercicioIMC.pdb
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.dll
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/ref/04ExercicioIMC.dll
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.pdb
+/home/andreluiz/RiderProjects/POO/04ExercicioIMC/obj/Debug/net6.0/04ExercicioIMC.genruntimeconfig.cache
