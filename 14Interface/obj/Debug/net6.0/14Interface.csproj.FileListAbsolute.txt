@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/POO/14Interface/bin/Debug/net6.0/14Interface
+/home/andreluiz/RiderProjects/POO/14Interface/bin/Debug/net6.0/14Interface.deps.json
+/home/andreluiz/RiderProjects/POO/14Interface/bin/Debug/net6.0/14Interface.runtimeconfig.json
+/home/andreluiz/RiderProjects/POO/14Interface/bin/Debug/net6.0/14Interface.dll
+/home/andreluiz/RiderProjects/POO/14Interface/bin/Debug/net6.0/ref/14Interface.dll
+/home/andreluiz/RiderProjects/POO/14Interface/bin/Debug/net6.0/14Interface.pdb
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.dll
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/ref/14Interface.dll
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.pdb
+/home/andreluiz/RiderProjects/POO/14Interface/obj/Debug/net6.0/14Interface.genruntimeconfig.cache

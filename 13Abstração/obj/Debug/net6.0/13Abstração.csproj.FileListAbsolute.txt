@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/POO/13Abstração/bin/Debug/net6.0/13Abstração
+/home/andreluiz/RiderProjects/POO/13Abstração/bin/Debug/net6.0/13Abstração.deps.json
+/home/andreluiz/RiderProjects/POO/13Abstração/bin/Debug/net6.0/13Abstração.runtimeconfig.json
+/home/andreluiz/RiderProjects/POO/13Abstração/bin/Debug/net6.0/13Abstração.dll
+/home/andreluiz/RiderProjects/POO/13Abstração/bin/Debug/net6.0/ref/13Abstração.dll
+/home/andreluiz/RiderProjects/POO/13Abstração/bin/Debug/net6.0/13Abstração.pdb
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.dll
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/ref/13Abstração.dll
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.pdb
+/home/andreluiz/RiderProjects/POO/13Abstração/obj/Debug/net6.0/13Abstração.genruntimeconfig.cache
