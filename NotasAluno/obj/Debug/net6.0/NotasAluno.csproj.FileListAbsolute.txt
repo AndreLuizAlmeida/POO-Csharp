@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/bin/Debug/net6.0/NotasAluno
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/bin/Debug/net6.0/NotasAluno.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/bin/Debug/net6.0/NotasAluno.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/bin/Debug/net6.0/NotasAluno.dll
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/bin/Debug/net6.0/ref/NotasAluno.dll
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/bin/Debug/net6.0/NotasAluno.pdb
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.dll
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/ref/NotasAluno.dll
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.pdb
+/home/andreluiz/RiderProjects/CSharp POO/NotasAluno/obj/Debug/net6.0/NotasAluno.genruntimeconfig.cache

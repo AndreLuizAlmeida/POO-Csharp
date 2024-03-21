@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/bin/Debug/net6.0/EstoqueProdutos
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/bin/Debug/net6.0/EstoqueProdutos.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/bin/Debug/net6.0/EstoqueProdutos.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/bin/Debug/net6.0/EstoqueProdutos.dll
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/bin/Debug/net6.0/ref/EstoqueProdutos.dll
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/bin/Debug/net6.0/EstoqueProdutos.pdb
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.dll
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/ref/EstoqueProdutos.dll
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.pdb
+/home/andreluiz/RiderProjects/CSharp POO/EstoqueProdutos/obj/Debug/net6.0/EstoqueProdutos.genruntimeconfig.cache
