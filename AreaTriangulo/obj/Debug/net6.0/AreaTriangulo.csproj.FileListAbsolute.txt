@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/bin/Debug/net6.0/AreaTriangulo
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/bin/Debug/net6.0/AreaTriangulo.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/bin/Debug/net6.0/AreaTriangulo.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/bin/Debug/net6.0/AreaTriangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/bin/Debug/net6.0/ref/AreaTriangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/bin/Debug/net6.0/AreaTriangulo.pdb
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/ref/AreaTriangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.pdb
+/home/andreluiz/RiderProjects/CSharp POO/AreaTriangulo/obj/Debug/net6.0/AreaTriangulo.genruntimeconfig.cache

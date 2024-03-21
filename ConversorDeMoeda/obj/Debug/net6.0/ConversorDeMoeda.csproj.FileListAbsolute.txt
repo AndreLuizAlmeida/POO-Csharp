@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/bin/Debug/net6.0/ConversorDeMoeda
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/bin/Debug/net6.0/ConversorDeMoeda.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/bin/Debug/net6.0/ConversorDeMoeda.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/bin/Debug/net6.0/ConversorDeMoeda.dll
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/bin/Debug/net6.0/ref/ConversorDeMoeda.dll
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/bin/Debug/net6.0/ConversorDeMoeda.pdb
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.dll
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ref/ConversorDeMoeda.dll
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.pdb
+/home/andreluiz/RiderProjects/CSharp POO/ConversorDeMoeda/obj/Debug/net6.0/ConversorDeMoeda.genruntimeconfig.cache

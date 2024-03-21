@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/bin/Debug/net6.0/DadosFuncionario
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/bin/Debug/net6.0/DadosFuncionario.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/bin/Debug/net6.0/DadosFuncionario.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/bin/Debug/net6.0/DadosFuncionario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/bin/Debug/net6.0/ref/DadosFuncionario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/bin/Debug/net6.0/DadosFuncionario.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/ref/DadosFuncionario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosFuncionario/obj/Debug/net6.0/DadosFuncionario.genruntimeconfig.cache
