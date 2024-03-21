@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/bin/Debug/net6.0/DadosPessoa
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/bin/Debug/net6.0/DadosPessoa.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/bin/Debug/net6.0/DadosPessoa.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/bin/Debug/net6.0/DadosPessoa.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/bin/Debug/net6.0/ref/DadosPessoa.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/bin/Debug/net6.0/DadosPessoa.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/ref/DadosPessoa.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosPessoa/obj/Debug/net6.0/DadosPessoa.genruntimeconfig.cache

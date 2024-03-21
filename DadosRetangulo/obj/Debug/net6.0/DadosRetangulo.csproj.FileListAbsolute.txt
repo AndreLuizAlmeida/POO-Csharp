@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/bin/Debug/net6.0/DadosRetangulo
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/bin/Debug/net6.0/DadosRetangulo.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/bin/Debug/net6.0/DadosRetangulo.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/bin/Debug/net6.0/DadosRetangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/bin/Debug/net6.0/ref/DadosRetangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/bin/Debug/net6.0/DadosRetangulo.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/ref/DadosRetangulo.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosRetangulo/obj/Debug/net6.0/DadosRetangulo.genruntimeconfig.cache

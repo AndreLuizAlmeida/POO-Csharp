@@ -1,0 +1,15 @@
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/bin/Debug/net6.0/DadosSalario
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/bin/Debug/net6.0/DadosSalario.deps.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/bin/Debug/net6.0/DadosSalario.runtimeconfig.json
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/bin/Debug/net6.0/DadosSalario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/bin/Debug/net6.0/ref/DadosSalario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/bin/Debug/net6.0/DadosSalario.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.csproj.AssemblyReference.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.GeneratedMSBuildEditorConfig.editorconfig
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.AssemblyInfoInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.AssemblyInfo.cs
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.csproj.CoreCompileInputs.cache
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/ref/DadosSalario.dll
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.pdb
+/home/andreluiz/RiderProjects/CSharp POO/DadosSalario/obj/Debug/net6.0/DadosSalario.genruntimeconfig.cache
